@@ -1,0 +1,25 @@
+* {
+    background-color: lightgoldenrodyellow;
+    font-style: italic;
+}
+
+.container {
+    display: flex;
+}
+
+.container div{
+   
+    border: 4px solid darkorchid;
+    flex: 1;
+    padding: 20px;
+}
+
+.container-2 {
+    display: flex;
+}
+
+.container-2 div{
+    border: 3px solid purple;
+    flex: 1;
+    padding: 20px;
+}
